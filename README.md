@@ -1,6 +1,6 @@
 Appointment Reminder System
                                   
-	                                      REMIND ME
+	                                    		  REMIND ME
                        
   Is a type of time management reminder that is designed to alert the user of important events
   esentially You can set reminders and then the app reminds you when it's time.
