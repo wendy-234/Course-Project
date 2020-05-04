@@ -23,7 +23,7 @@ be an important thing to do to ensure you stay at the top of your to-do list, an
 time effectively.
   
    Includes :
-  
+   
   *Member Registration
   *notification
   *description message 
